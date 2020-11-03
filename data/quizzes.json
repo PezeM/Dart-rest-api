@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Wiedza ogólna",
+    "questions": [
+      {
+        "question": "Obecnie obowiązującą polską konstytucję uchwalono w roku:",
+        "correctAnswer": 1,
+        "answers": [
+          "1989",
+          "1997",
+          "1999",
+          "1993"
+        ]
+      },
+      {
+        "question": "Stolicą kanady jest:",
+        "correctAnswer": 2,
+        "answers": [
+          "Toronto",
+          "Ontario",
+          "Ottawa",
+          "Quebec"
+        ]
+      },
+      {
+        "question": "W którym wieku zmarł Napoleon Bonaparte?",
+        "correctAnswer": 2,
+        "answers": [
+          "XVI",
+          "XVIII",
+          "XIX",
+          "XVII"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "Historia",
+    "questions": [
+      {
+        "question": "Które ziemie sprzedała Francja Stanom Zjednoczonym w 1803 roku za kwotę ok. $15 mln?",
+        "correctAnswer": 0,
+        "answers": [
+          "Luizjanę",
+          "Florydę",
+          "Alaskę",
+          "Kalifornię"
+        ]
+      },
+      {
+        "question": "1838 roku Samuel Morse po raz pierwszy zademonstrował w Morristown (New Jersey) działanie:",
+        "correctAnswer": 0,
+        "answers": [
+          "Telegrafu",
+          "Telewizora",
+          "Telefonu",
+          "Teleskopu"
+        ]
+      },
+      {
+        "question": "Z którym państwem Francja i Wielka Brytania prowadziły w XIX wieku tzw. wojny opiumowe?",
+        "correctAnswer": 0,
+        "answers": [
+          "Z Chinami",
+          "Z Rosją",
+          "Z Japonią",
+          "Z Indiami"
+        ]
+      }
+    ]
+  }
+]
